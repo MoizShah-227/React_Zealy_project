@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Syne:wght@700;800&display=swap');
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Syne', sans-serif; */
+
+.components-wrapper{
+  border: 2px solid white;
+  width: 90%;
+  margin-left: 5%;
+}
+
+/* NAVIGATION BAR CSS */
+
+.navbar-Logo img{
+  width:30%;
+}
