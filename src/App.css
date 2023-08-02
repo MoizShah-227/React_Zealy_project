@@ -10,6 +10,23 @@ font-family: 'Syne', sans-serif; */
 
 /* NAVIGATION BAR CSS */
 
+.nav{
+  background-color: black;
+  padding-top: 12px;
+  border-color: none;
+}
 .navbar-Logo img{
   width:30%;
+}
+.collapse{
+  margin-left: -30%;
+}
+nav a{
+  color: white;
+}
+nav a:hover{
+  color: grey;
+  /* background-color: rgb(13,13,13,0.1); */
+  background-color: rgb(32,33,36,0.2);
+  
 }
